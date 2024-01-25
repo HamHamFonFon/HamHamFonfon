@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Astro-Otter website](https://astro-otter.space)
 
-- 🌱 I’m currently learning **VueJs, NodeJS**
+- 🌱 I’m currently learning **VueJs, NodeJS and Typescript**
 
 - 💬 Ask me about **PHP, Symfony**
 
