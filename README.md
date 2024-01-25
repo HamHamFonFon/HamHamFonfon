@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **VueJs, NodeJS and Typescript**
 
-- 💬 Ask me about **PHP, Symfony**
+- 💬 Ask me about **PHP, Symfony and API Platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
